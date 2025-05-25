@@ -1,1 +1,1 @@
-# Bank-Customer-Churn-Behavioral-Segmentation-and-Retention-Analysis
+# Bank-Customer-Churn-Analysis

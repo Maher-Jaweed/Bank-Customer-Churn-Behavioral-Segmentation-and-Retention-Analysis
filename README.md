@@ -1,4 +1,4 @@
-# Executive Summary: Bank Customer Churn & Segmentation Analysis:
+# Bank Customer Churn & Segmentation Analysis:
 
 
 This analysis was conducted to uncover key insights into customer churn, demographic profiles, geographical behavior differences, and customer segments within the bank’s customer base.
